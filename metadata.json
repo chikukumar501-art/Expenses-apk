@@ -1,0 +1,8 @@
+{
+  "name": "Remix My Expense Manager – Daily Expense Tracker",
+  "description": "Professional Android Daily Expense Tracker with multi-period reports, category budgeting, Indian Rupee support, Hindi \u0026 English, and complete offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
